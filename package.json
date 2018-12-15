@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/SanDiegoEMG/13HW-FriendFinder/issues"
   },
-  "homepage": "https://github.com/SanDiegoEMG/13HW-FriendFinder#readme"
+  "homepage": "https://github.com/SanDiegoEMG/13HW-FriendFinder#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
