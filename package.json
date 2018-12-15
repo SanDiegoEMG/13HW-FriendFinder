@@ -1,0 +1,23 @@
+{
+  "name": "13hw-friendfinder",
+  "version": "1.0.0",
+  "description": "first full-stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanDiegoEMG/13HW-FriendFinder.git"
+  },
+  "keywords": [
+    "full-stack",
+    "class"
+  ],
+  "author": "Em Goss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanDiegoEMG/13HW-FriendFinder/issues"
+  },
+  "homepage": "https://github.com/SanDiegoEMG/13HW-FriendFinder#readme"
+}
