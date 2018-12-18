@@ -1,10 +1,18 @@
 # HW13-FriendFinder
 
-Using video on the Hot Restaurant as a guide ...
+Purpose
+* First half-step to making a full stack application! 
 
-1) create file structure
-    git commit
-2) set up server
-    done
-3) connect data and get return of json data
+Features
+* focus of this project was to learn how to take data input from a website submission (survey) and to display it to a UI using express
+* html code taken from class repository
+
+Technologies used
+* 
+
+Process (Psuedo-code)
+
+
+Conclusion
+* 
 
