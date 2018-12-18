@@ -2,7 +2,7 @@
     var friends = [
         {
             "name": "Ahmed",
-            "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZHqf0EagRDuD6JoU48apu4TMuBN9jftnDjN6PP1f6rl-zcZf",
             "scores": [
                 "5",
                 "1",
@@ -210,7 +210,7 @@
         },
         {
             "name": "Ash",
-            "photo": "ketchum",
+            "photo": "https://pbs.twimg.com/profile_images/653700295395016708/WjGTnKGQ_400x400.png",
             "scores": [
                 "5",
                 "4",
